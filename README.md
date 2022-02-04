@@ -17,6 +17,9 @@ State managment:
 - "redux-persist": "^6.0.0"
 - "redux-thunk": "^2.3.0"
 
+## Download this APK file from:
+https://drive.google.com/file/d/1QjFEKJaIrVQp6s1H0GVdHT6_eQYtZRwi/view?usp=sharing 
+
 ## Click below image to play the video: 🎥
  
  [![Watch the video](https://i.imgur.com/Bu8CLdh.png)](https://youtu.be/S_UFHt6eBJg)
