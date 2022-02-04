@@ -12,8 +12,8 @@
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.14.1",
     "@react-navigation/bottom-tabs": "^6.2.0",
-    "@react-navigation/native": "^5.9.8",
-    "@react-navigation/stack": "^5.14.5",
+    "@react-navigation/native": "^6.0.0",
+    "@react-navigation/stack": "^6.0.0",
     "react": "17.0.1",
     "react-native": "0.64.2",
     "react-native-device-info": "^8.4.8",
